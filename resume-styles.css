@@ -1,0 +1,44 @@
+/* Overall edits*/
+body{
+    background-color: #fff;
+    line-height: 1.5625em;
+    font-family: Arial, sans-serif;
+}
+
+.container{
+    background-color: white;
+    box-shadow: 10px 10px 25px black;
+    max-width: 60%;
+    margin: 0 auto;
+}
+.header{
+    padding: 1.5625em;
+    text-align: center;
+}
+.Summary, .Experience, .Education, .Skills{
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+}
+
+/* Skills section edits*/
+.Skills{
+    padding-bottom: 1.25em;
+}
+.Skills ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Experience section edits*/
+.Experience ul{
+    padding-left: 1.25em;
+    padding-right: 1.25em;
+}
+
+/* general section edits*/
+h2{
+    font-size: 1.4em;
+    border-bottom: 3px solid black;
+    margin-bottom: 0.625em;
+    padding-bottom: 0.3125em;
+}
